@@ -60,4 +60,4 @@ function iLove(name, love) {
   console.log(`${name} loves ${love}!`)
 }
 
-iLove('Tyland', 'cars')
+iLove('Tyland', 'Life')
